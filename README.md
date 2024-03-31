@@ -1,5 +1,5 @@
-# HOTEL-IMAGE-CLASSIFICATION-MODEL-BY-VERTEX-AI
-# Company Project : The integrated solutions comprise a Vertex AI image classification model for hotel images. The goal of this project is to streamline two critical tasks in the hospitality industry: classifying hotel photos based on trip types.
+# Company Project : HOTEL-IMAGE-CLASSIFICATION-MODEL-BY-VERTEX-AI
+The integrated solutions comprise a Vertex AI image classification model for hotel images. The goal of this project is to streamline two critical tasks in the hospitality industry: classifying hotel photos based on trip types.
 
 # TOOLS AND TECHNOLOGIES 
 ● Vertex AI: Used for developing and deploying the image classification model.
