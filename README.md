@@ -1,4 +1,4 @@
-# HOTEL-IMAGE-CLASSIFICATION-MODEL-BY-VERTEX-AI
+# Company Project : HOTEL-IMAGE-CLASSIFICATION-MODEL-BY-VERTEX-AI
 The integrated solutions comprise a Vertex AI image classification model for hotel images. The goal of this project is to streamline two critical tasks in the hospitality industry: classifying hotel photos based on trip types.
 
 # TOOLS AND TECHNOLOGIES 
@@ -18,10 +18,7 @@ Hotel Image Classification:
 The Vertex AI image classification model is trained to categorize hotel photos into the
 following classes:
 
-Business Trip Hotels
-Family Trip Hotels
-Leisure Trip Hotels
-No Label
+Business Trip Hotels, Family Trip Hotels, Leisure Trip Hotels, No Label
 
 Upon uploading a new hotel photo, the model predicts its class based on its features and assigns it accordingly. If the photo doesn't match any predefined labels, it falls into the "No Label" category.
 
